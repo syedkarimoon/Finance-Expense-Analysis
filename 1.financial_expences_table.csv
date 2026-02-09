@@ -1,0 +1,151 @@
+Expense_ID	Expense_Date	Category	Description	Payment_Mode	Amount	Subcategory	Location	Recurring	Vendor	Payment_Status	Notes	Month	YEAR	Hgh-Value-Flag
+1	04-11-2025	Shopping	Sample expense 1	Card	3986.17	Electronics	New York	Yes	Macy's	Paid	-	November	2025	High
+2	20-01-2026	Medical	Sample expense 2	Card	1390.62	Health Insurance	Chicago	No	Walgreens	Pending	-	January	2026	Normal
+3	25-10-2025	Food	Sample expense 3	UPI	2222.91	Beverages	Phoenix	No	Walmart	Paid	-	October	2025	Normal
+4	08-08-2025	Shopping	Sample expense 4	Card	438.36	Accessories	Phoenix	No	Macy's	Paid	-	August	2025	Normal
+5	08-11-2025	Medical	Sample expense 5	Cash	175.49	Pharmacy	Houston	Yes	Walgreens	Paid	-	November	2025	Normal
+6	04-10-2025	Utilities	Sample expense 6	UPI	4815.11	Internet	Miami	No	Verizon	Paid	-	October	2025	High
+7	14-08-2025	Utilities	Sample expense 7	Cash	4188.1	Electricity	New York	No	ComEd	Paid	-	August	2025	High
+8	04-11-2025	Utilities	Sample expense 8	Cash	3495.07	Internet	New York	No	ComEd	Paid	-	November	2025	High
+9	23-11-2025	Utilities	Sample expense 9	Card	2074.32	Electricity	Los Angeles	No	City Water	Paid	-	November	2025	Normal
+10	07-10-2025	Utilities	Sample expense 10	Card	907.81	Internet	Houston	No	GasCo	Paid	-	October	2025	Normal
+11	20-10-2025	Medical	Sample expense 11	Card	824.36	Pharmacy	Los Angeles	Yes	City Hospital	Paid	-	October	2025	Normal
+12	18-11-2025	Medical	Sample expense 12	Card	1288.7	Health Insurance	Los Angeles	No	HealthCare Inc	Paid	-	November	2025	Normal
+13	01-11-2025	Travel	Sample expense 13	Card	2768.67	Taxi	Los Angeles	No	Shell Fuel	Paid	-	November	2025	Normal
+14	05-11-2025	Rent	Sample expense 14	UPI	3587.25	Storage	Miami	No	ABC Realty	Paid	-	November	2025	High
+15	23-12-2025	Entertainment	Sample expense 15	Cash	3317.98	Subscription	Miami	No	PlayStation Store	Paid	-	December	2025	High
+16	02-12-2025	Utilities	Sample expense 16	Cash	1435.67	Electricity	Chicago	Yes	ComEd	Paid	-	December	2025	Normal
+17	21-12-2025	Food	Sample expense 17	Cash	4776.58	Groceries	Chicago	No	Domino's	Paid	-	December	2025	High
+18	15-09-2025	Entertainment	Sample expense 18	Cash	3702.59	Subscription	Los Angeles	No	AMC	Paid	-	September	2025	High
+19	26-07-2025	Medical	Sample expense 19	Card	2794.05	Pharmacy	Houston	No	Walgreens	Paid	-	July	2025	Normal
+20	20-10-2025	Food	Sample expense 20	Cash	3078.02	Restaurant	New York	No	Walmart	Paid	-	October	2025	High
+21	29-12-2025	Food	Sample expense 21	UPI	2127.02	Groceries	Miami	No	Domino's	Paid	-	December	2025	Normal
+22	31-08-2025	Food	Sample expense 22	UPI	1276.27	Restaurant	Houston	No	Subway	Paid	-	August	2025	Normal
+23	01-12-2025	Travel	Sample expense 23	Cash	1812.06	Flight	Phoenix	No	Delta Airlines	Paid	-	December	2025	Normal
+24	14-08-2025	Medical	Sample expense 24	Cash	3801.34	Health Insurance	Miami	No	CVS	Paid	-	August	2025	High
+25	01-01-2026	Food	Sample expense 25	UPI	121.25	Groceries	Miami	Yes	Starbucks	Paid	-	January	2026	Normal
+26	20-09-2025	Utilities	Sample expense 26	UPI	624.56	Gas	Chicago	Yes	City Water	Paid	-	September	2025	Normal
+27	15-08-2025	Shopping	Sample expense 27	Card	277.71	Clothes	New York	No	Amazon	Paid	-	August	2025	Normal
+28	21-10-2025	Food	Sample expense 28	UPI	251.61	Groceries	New York	Yes	Starbucks	Paid	-	October	2025	Normal
+29	11-09-2025	Travel	Sample expense 29	Card	4284.53	Fuel	Phoenix	Yes	Shell Fuel	Paid	-	September	2025	High
+30	21-09-2025	Entertainment	Sample expense 30	Card	3533.11	Subscription	Phoenix	No	Netflix	Paid	-	September	2025	High
+31	10-01-2026	Medical	Sample expense 31	Card	2397.16	Doctor	Miami	Yes	Walgreens	Paid	-	January	2026	Normal
+32	08-08-2025	Travel	Sample expense 32	Card	534.28	Fuel	Los Angeles	No	Greyhound	Paid	-	August	2025	Normal
+33	15-01-2026	Food	Sample expense 33	Card	2483.5	Snacks	Chicago	Yes	Subway	Paid	-	January	2026	Normal
+34	13-09-2025	Medical	Sample expense 34	Cash	2393.69	Health Insurance	Chicago	No	CVS	Paid	-	September	2025	Normal
+35	09-11-2025	Shopping	Sample expense 35	UPI	907.35	Clothes	Miami	No	Target	Paid	-	November	2025	Normal
+36	17-09-2025	Food	Sample expense 36	Card	2197.57	Beverages	Houston	No	Walmart	Paid	-	September	2025	Normal
+37	26-09-2025	Travel	Sample expense 37	UPI	2022.6	Train	Los Angeles	Yes	Uber	Paid	-	September	2025	Normal
+38	02-12-2025	Rent	Sample expense 38	UPI	3098.46	Storage	Miami	No	HomeStay	Paid	-	December	2025	High
+39	13-09-2025	Utilities	Sample expense 39	Card	3193.71	Gas	Los Angeles	No	Verizon	Paid	-	September	2025	High
+40	06-12-2025	Entertainment	Sample expense 40	Cash	274.25	Movies	Los Angeles	No	PlayStation Store	Paid	-	December	2025	Normal
+41	14-08-2025	Travel	Sample expense 41	Card	1904.33	Flight	Los Angeles	No	Delta Airlines	Paid	-	August	2025	Normal
+42	05-10-2025	Medical	Sample expense 42	Cash	3148.01	Hospital	Miami	No	HealthCare Inc	Paid	-	October	2025	High
+43	07-01-2026	Food	Sample expense 43	UPI	2540.52	Groceries	Chicago	Yes	Walmart	Paid	-	January	2026	Normal
+44	11-08-2025	Utilities	Sample expense 44	Cash	4289.62	Electricity	Chicago	No	ComEd	Paid	-	August	2025	High
+45	03-12-2025	Food	Sample expense 45	Cash	3310.53	Restaurant	Los Angeles	No	Subway	Paid	-	December	2025	High
+46	21-10-2025	Medical	Sample expense 46	Cash	856.53	Hospital	Houston	No	Walgreens	Paid	-	October	2025	Normal
+47	22-09-2025	Food	Sample expense 47	UPI	399.32	Snacks	New York	No	Subway	Paid	-	September	2025	Normal
+48	07-08-2025	Rent	Sample expense 48	UPI	3229.98	Apartment	Miami	No	OfficeLease	Paid	-	August	2025	High
+49	02-08-2025	Utilities	Sample expense 49	Cash	181.23	Electricity	New York	No	GasCo	Paid	-	August	2025	Normal
+50	22-10-2025	Utilities	Sample expense 50	Cash	2949.59	Water	Houston	Yes	City Water	Pending	-	October	2025	Normal
+51	15-09-2025	Medical	Sample expense 51	Card	4704.14	Doctor	Miami	No	CVS	Paid	-	September	2025	High
+52	01-12-2025	Entertainment	Sample expense 52	Cash	2898.6	Concert	Los Angeles	No	AMC	Paid	-	December	2025	Normal
+53	16-10-2025	Rent	Sample expense 53	Card	1971.44	Storage	Chicago	No	ABC Realty	Paid	-	October	2025	Normal
+54	24-10-2025	Travel	Sample expense 54	Cash	3234.28	Taxi	New York	No	Uber	Paid	-	October	2025	High
+55	12-11-2025	Food	Sample expense 55	Card	2318.35	Snacks	Phoenix	Yes	Walmart	Paid	-	November	2025	Normal
+56	12-01-2026	Shopping	Sample expense 56	UPI	2750.8	Accessories	Phoenix	No	Target	Paid	-	January	2026	Normal
+57	01-08-2025	Food	Sample expense 57	Cash	4710.25	Restaurant	Houston	No	Domino's	Paid	-	August	2025	High
+58	15-01-2026	Food	Sample expense 58	Cash	1961.21	Beverages	Los Angeles	No	Walmart	Paid	-	January	2026	Normal
+59	28-08-2025	Travel	Sample expense 59	Cash	4807.89	Bus	New York	Yes	Uber	Paid	-	August	2025	High
+60	13-10-2025	Food	Sample expense 60	Cash	4531.49	Beverages	Los Angeles	No	Starbucks	Paid	-	October	2025	High
+61	04-01-2026	Rent	Sample expense 61	Card	1019.17	Apartment	New York	No	ABC Realty	Paid	-	January	2026	Normal
+62	12-09-2025	Rent	Sample expense 62	Cash	393.34	Office	Houston	Yes	OfficeLease	Paid	-	September	2025	Normal
+63	05-11-2025	Utilities	Sample expense 63	UPI	548.85	Gas	Houston	No	City Water	Paid	-	November	2025	Normal
+64	03-12-2025	Medical	Sample expense 64	UPI	140.2	Health Insurance	Phoenix	Yes	City Hospital	Paid	-	December	2025	Normal
+65	26-07-2025	Entertainment	Sample expense 65	Cash	517.49	Games	Los Angeles	Yes	Netflix	Pending	-	July	2025	Normal
+66	05-12-2025	Shopping	Sample expense 66	UPI	3430.88	Accessories	Miami	No	Target	Paid	-	December	2025	High
+67	16-09-2025	Food	Sample expense 67	Cash	402.38	Restaurant	Phoenix	No	Subway	Paid	-	September	2025	Normal
+68	07-11-2025	Food	Sample expense 68	Cash	1628.93	Beverages	Los Angeles	No	Starbucks	Paid	-	November	2025	Normal
+69	28-07-2025	Travel	Sample expense 69	UPI	4232.13	Flight	Phoenix	No	Delta Airlines	Paid	-	July	2025	High
+70	16-09-2025	Medical	Sample expense 70	Cash	165.2	Health Insurance	Miami	No	HealthCare Inc	Pending	-	September	2025	Normal
+71	17-12-2025	Rent	Sample expense 71	UPI	4081.62	Apartment	Chicago	No	HomeStay	Paid	-	December	2025	High
+72	06-09-2025	Shopping	Sample expense 72	Card	1445.18	Clothes	Chicago	No	Best Buy	Paid	-	September	2025	Normal
+73	02-01-2026	Utilities	Sample expense 73	Cash	634.92	Gas	Chicago	No	Verizon	Paid	-	January	2026	Normal
+74	07-08-2025	Rent	Sample expense 74	Card	3498.85	Storage	Chicago	No	OfficeLease	Paid	-	August	2025	High
+75	27-10-2025	Medical	Sample expense 75	UPI	3163.27	Doctor	New York	No	CVS	Paid	-	October	2025	High
+76	10-09-2025	Entertainment	Sample expense 76	Card	4393.49	Concert	Chicago	No	PlayStation Store	Paid	-	September	2025	High
+77	08-08-2025	Utilities	Sample expense 77	Card	3688.6	Electricity	Miami	No	City Water	Paid	-	August	2025	High
+78	02-09-2025	Entertainment	Sample expense 78	UPI	4027.23	Movies	Houston	No	AMC	Paid	-	September	2025	High
+79	14-10-2025	Travel	Sample expense 79	Card	1446.07	Taxi	Houston	Yes	Shell Fuel	Paid	-	October	2025	Normal
+80	12-11-2025	Travel	Sample expense 80	Card	928.33	Fuel	New York	No	Greyhound	Pending	-	November	2025	Normal
+81	15-09-2025	Food	Sample expense 81	UPI	3765.54	Beverages	Chicago	No	Subway	Paid	-	September	2025	High
+82	17-08-2025	Entertainment	Sample expense 82	Card	4043.83	Movies	Chicago	Yes	Spotify	Paid	-	August	2025	High
+83	25-12-2025	Medical	Sample expense 83	UPI	4953	Health Insurance	Chicago	Yes	City Hospital	Paid	-	December	2025	High
+84	25-11-2025	Shopping	Sample expense 84	Card	2092.46	Accessories	Phoenix	No	Amazon	Paid	-	November	2025	Normal
+85	03-09-2025	Utilities	Sample expense 85	UPI	1891.49	Electricity	Los Angeles	No	City Water	Paid	-	September	2025	Normal
+86	28-12-2025	Rent	Sample expense 86	UPI	3893.24	Apartment	Phoenix	No	HomeStay	Pending	-	December	2025	High
+87	08-08-2025	Medical	Sample expense 87	Card	1736.98	Doctor	Los Angeles	Yes	CVS	Paid	-	August	2025	Normal
+88	07-09-2025	Medical	Sample expense 88	Card	4657.25	Hospital	Chicago	No	City Hospital	Paid	-	September	2025	High
+89	27-09-2025	Travel	Sample expense 89	Card	4299.14	Fuel	Chicago	No	Uber	Paid	-	September	2025	High
+90	21-10-2025	Entertainment	Sample expense 90	Cash	2173.52	Games	Phoenix	Yes	Netflix	Paid	-	October	2025	Normal
+91	03-10-2025	Food	Sample expense 91	Cash	3766.81	Restaurant	Phoenix	Yes	Walmart	Paid	-	October	2025	High
+92	02-08-2025	Food	Sample expense 92	Cash	3784.99	Snacks	Los Angeles	No	Subway	Paid	-	August	2025	High
+93	20-10-2025	Utilities	Sample expense 93	UPI	560.46	Gas	Houston	No	City Water	Paid	-	October	2025	Normal
+94	30-11-2025	Travel	Sample expense 94	Card	4517.64	Fuel	Los Angeles	No	Delta Airlines	Paid	-	November	2025	High
+95	07-12-2025	Medical	Sample expense 95	UPI	2551	Hospital	Phoenix	No	Walgreens	Paid	-	December	2025	Normal
+96	25-09-2025	Shopping	Sample expense 96	Cash	4140.96	Clothes	Miami	No	Macy's	Paid	-	September	2025	High
+97	10-12-2025	Travel	Sample expense 97	Card	1634.25	Flight	Phoenix	No	Delta Airlines	Paid	-	December	2025	Normal
+98	13-10-2025	Utilities	Sample expense 98	UPI	4482.84	Water	Miami	No	ComEd	Paid	-	October	2025	High
+99	07-12-2025	Utilities	Sample expense 99	Card	1976.55	Gas	New York	No	ComEd	Paid	-	December	2025	Normal
+100	03-01-2026	Travel	Sample expense 100	UPI	103.65	Flight	Phoenix	No	Greyhound	Paid	-	January	2026	Normal
+101	03-01-2026	Utilities	Sample expense 101	Card	4531.64	Internet	New York	No	ComEd	Paid	-	January	2026	High
+102	26-08-2025	Travel	Sample expense 102	Cash	501.87	Fuel	Houston	No	Shell Fuel	Paid	-	August	2025	Normal
+103	24-11-2025	Rent	Sample expense 103	Cash	1630.6	Apartment	Los Angeles	No	ABC Realty	Paid	-	November	2025	Normal
+104	29-07-2025	Travel	Sample expense 104	Card	4752.81	Taxi	Miami	No	Uber	Pending	-	July	2025	High
+105	03-09-2025	Entertainment	Sample expense 105	UPI	4755.51	Games	Los Angeles	No	PlayStation Store	Paid	-	September	2025	High
+106	21-08-2025	Travel	Sample expense 106	Cash	2888.52	Taxi	New York	No	Delta Airlines	Paid	-	August	2025	Normal
+107	06-12-2025	Utilities	Sample expense 107	Cash	3177.59	Water	Miami	No	Verizon	Paid	-	December	2025	High
+108	04-10-2025	Entertainment	Sample expense 108	Cash	2269.81	Subscription	Los Angeles	No	PlayStation Store	Paid	-	October	2025	Normal
+109	05-08-2025	Utilities	Sample expense 109	Card	1501.39	Internet	Phoenix	No	City Water	Paid	-	August	2025	Normal
+110	02-01-2026	Food	Sample expense 110	Card	1676.89	Groceries	Chicago	No	Walmart	Paid	-	January	2026	Normal
+111	26-08-2025	Food	Sample expense 111	UPI	3378.97	Snacks	New York	Yes	Domino's	Paid	-	August	2025	High
+112	10-09-2025	Entertainment	Sample expense 112	UPI	3774.25	Movies	Los Angeles	No	Netflix	Paid	-	September	2025	High
+113	22-12-2025	Rent	Sample expense 113	UPI	3968.32	Office	New York	No	OfficeLease	Paid	-	December	2025	High
+114	24-09-2025	Food	Sample expense 114	Card	3958.61	Snacks	New York	No	Walmart	Paid	-	September	2025	High
+115	30-08-2025	Travel	Sample expense 115	Card	501.47	Taxi	Miami	Yes	Shell Fuel	Paid	-	August	2025	Normal
+116	31-10-2025	Utilities	Sample expense 116	UPI	2497.38	Water	Miami	No	ComEd	Paid	-	October	2025	Normal
+117	12-01-2026	Food	Sample expense 117	UPI	334.92	Snacks	Chicago	No	Starbucks	Paid	-	January	2026	Normal
+118	05-11-2025	Food	Sample expense 118	Card	2770.17	Snacks	Phoenix	No	Subway	Paid	-	November	2025	Normal
+119	28-08-2025	Rent	Sample expense 119	UPI	2235.58	Apartment	New York	No	OfficeLease	Paid	-	August	2025	Normal
+120	02-11-2025	Entertainment	Sample expense 120	Cash	4444.14	Movies	Los Angeles	No	AMC	Paid	-	November	2025	High
+121	15-01-2026	Entertainment	Sample expense 121	Card	1787.03	Movies	Houston	Yes	PlayStation Store	Paid	-	January	2026	Normal
+122	02-12-2025	Medical	Sample expense 122	UPI	629.48	Doctor	New York	No	HealthCare Inc	Paid	-	December	2025	Normal
+123	25-07-2025	Rent	Sample expense 123	Card	757.81	Apartment	New York	No	HomeStay	Paid	-	July	2025	Normal
+124	29-07-2025	Travel	Sample expense 124	Cash	3819.48	Train	Chicago	No	Shell Fuel	Paid	-	July	2025	High
+125	13-12-2025	Entertainment	Sample expense 125	Card	3110.18	Concert	Phoenix	Yes	Spotify	Paid	-	December	2025	High
+126	04-11-2025	Utilities	Sample expense 126	Card	550.56	Electricity	Houston	No	ComEd	Paid	-	November	2025	Normal
+127	20-08-2025	Rent	Sample expense 127	Card	466.33	Apartment	Miami	No	ABC Realty	Paid	-	August	2025	Normal
+128	08-12-2025	Food	Sample expense 128	Card	3519.8	Beverages	Miami	No	Walmart	Paid	-	December	2025	High
+129	08-08-2025	Utilities	Sample expense 129	Cash	410.18	Internet	Los Angeles	No	ComEd	Pending	-	August	2025	Normal
+130	22-10-2025	Utilities	Sample expense 130	Card	4118.21	Water	Houston	No	Verizon	Paid	-	October	2025	High
+131	04-09-2025	Food	Sample expense 131	Card	3545.9	Beverages	Miami	Yes	Domino's	Pending	-	September	2025	High
+132	25-11-2025	Rent	Sample expense 132	UPI	452.68	Apartment	Los Angeles	No	OfficeLease	Paid	-	November	2025	Normal
+133	19-01-2026	Food	Sample expense 133	Card	469.95	Groceries	Phoenix	Yes	Starbucks	Paid	-	January	2026	Normal
+134	25-09-2025	Medical	Sample expense 134	UPI	4933.87	Hospital	Los Angeles	No	CVS	Paid	-	September	2025	High
+135	28-10-2025	Utilities	Sample expense 135	Cash	1902.64	Electricity	Miami	No	Verizon	Paid	-	October	2025	Normal
+136	14-09-2025	Shopping	Sample expense 136	Cash	1884.68	Electronics	Chicago	Yes	Best Buy	Paid	-	September	2025	Normal
+137	28-10-2025	Shopping	Sample expense 137	Cash	4073.36	Home Decor	Chicago	No	Best Buy	Paid	-	October	2025	High
+138	03-12-2025	Travel	Sample expense 138	Cash	4738.88	Fuel	Chicago	No	Delta Airlines	Paid	-	December	2025	High
+139	22-12-2025	Entertainment	Sample expense 139	UPI	4930.71	Concert	Miami	No	Spotify	Paid	-	December	2025	High
+140	14-12-2025	Food	Sample expense 140	Card	3779.22	Groceries	Chicago	No	Starbucks	Paid	-	December	2025	High
+141	11-01-2026	Food	Sample expense 141	Cash	1912.48	Groceries	Houston	No	Domino's	Paid	-	January	2026	Normal
+142	22-08-2025	Travel	Sample expense 142	Card	463.33	Fuel	Phoenix	No	Uber	Paid	-	August	2025	Normal
+143	29-08-2025	Travel	Sample expense 143	UPI	3896.88	Flight	Los Angeles	No	Delta Airlines	Paid	-	August	2025	High
+144	06-08-2025	Travel	Sample expense 144	UPI	2814.1	Flight	Los Angeles	No	Delta Airlines	Pending	-	August	2025	Normal
+145	31-12-2025	Utilities	Sample expense 145	UPI	2149.9	Internet	Miami	Yes	Verizon	Pending	-	December	2025	Normal
+146	03-10-2025	Medical	Sample expense 146	Cash	4536.45	Pharmacy	Chicago	No	HealthCare Inc	Paid	-	October	2025	High
+147	18-10-2025	Food	Sample expense 147	Card	600.43	Groceries	Chicago	No	Subway	Paid	-	October	2025	Normal
+148	21-08-2025	Utilities	Sample expense 148	Card	2488.49	Water	New York	No	GasCo	Pending	-	August	2025	Normal
+149	28-09-2025	Travel	Sample expense 149	Card	106.2	Taxi	Phoenix	No	Uber	Paid	-	September	2025	Normal
+150	10-01-2026	Food	Sample expense 150	UPI	2369.87	Restaurant	Houston	No	Domino's	Paid	-	January	2026	Normal
